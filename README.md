@@ -1,9 +1,13 @@
-### Welcome to my GitHub, my name is Ryan aka Rizz
+### Welcome to my GitHub, my name is Ryan.
 
-## I'm an Electronics Technician, Artificial Intelligence/Machine Learning Student and Wannabe Python Freelancer.
+---
+
+## I am an Electronics Technician, Artificial Intelligence/Machine Learning Student and Wannabe Python Freelancer.
 - :robot: Currently studying a Bachelor of Artificial Intelligence
 - :zap: Seeking to contribute to the open source community
-- 🥅 2020 Goals: Become a TensorFlow certified Developer
+- :dart: 2020 Goals: Become a TensorFlow certified Developer
+
+---
 
 ## :zap: GitHub Stats
 
