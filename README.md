@@ -5,7 +5,6 @@
 - :zap: Seeking to contribute to the open source community
 - 🥅 2020 Goals: Become a TensorFlow certified Developer
 
-<summary>:zap: GitHub Stats</summary>
+## :zap: GitHub Stats
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rmcmillan34&show_icons=true&hide_border=true" />
-
