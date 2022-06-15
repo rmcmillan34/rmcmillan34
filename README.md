@@ -8,3 +8,4 @@
 - :dart: 2022 Goals: Become a TensorFlow certified Developer
 
 ---
+<img src="https://tryhackme-badges.s3.amazonaws.com/Rizz0.png" alt="TryHackMe">
