@@ -1,11 +1,11 @@
-### Welcome to my GitHub, my name is Ryan.
+### Welcome, my name is Ryan and this is my GitHub
 
 ---
 
-## I am an Electronics Technician, Artificial Intelligence/Machine Learning Student and Wannabe Python Freelancer.
-- :robot: Currently studying a Bachelor of Artificial Intelligence
+## I am an Electronics Technician, Cyber Security Student and Artificial Intelligence/Machine Learning enthusiast.
+- :robot: Currently studying a master's degree in cyber security
 - :zap: Seeking to contribute to the open source community
-- :dart: 2022 Goals: Become a TensorFlow certified Developer
+- :dart: 2022 Goals: Become CPTS and CBBH certified and complete Graduate Cert Cyber Security.
 
 ---
 <img src="https://tryhackme-badges.s3.amazonaws.com/Rizz0.png" alt="TryHackMe">
