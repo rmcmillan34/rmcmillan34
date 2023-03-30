@@ -1,8 +1,8 @@
-### Welcome, my name is Ryan and this is my GitHub
+## Welcome, my name is Ryan and this is my GitHub
 
 ---
 
-## I am an Electronics Technician, Cyber Security Student and Artificial Intelligence/Machine Learning enthusiast.
+### I am an electronics technician, cyber security student and artificial intelligence/machine learning enthusiast.
 - :robot: Currently studying a master's degree in cyber security
 - :zap: Seeking to contribute to the open source community
 - :dart: 2022 Goals: Become CPTS and CBBH certified and complete Graduate Cert Cyber Security.
