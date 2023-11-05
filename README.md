@@ -31,16 +31,9 @@ I am a communications electronics technician by trade, a cybersecurity student, 
 ---
 
 - 🔭 I’m currently working on [Project-PWN](https://github.com/rmcmillan34/Project-PWN/) and [Bandito](https://github.com/rmcmillan34/bandito/)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
-
----
-
-- :robot: Currently studying a master's degree in cyber security
-- :zap: Seeking to contribute to the open source community
-- :dart: 2024 Goals: Become CBBH, CPTS and OSCP certified and complete Masters Degree in Cyber Security.
+- 🌱 I’m currently learning Cloud Security on AWS
+- 🤖 Currently studying a master's degree in cyber security
+- ⚡️ Seeking to contribute to the open source community
+- 🎯 2024 Goals: Become CBBH, CPTS, and OSCP certified and complete my Masters Degree in Cyber Security.
+<br>
 <img src="https://tryhackme-badges.s3.amazonaws.com/Rizz0.png" alt="TryHackMe">
