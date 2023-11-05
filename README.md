@@ -6,12 +6,14 @@ I am a communications electronics technician by trade, a cybersecurity student, 
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Steganography Tool (StegTool)</b>
-  - [Implementing Image Steganography in Python](https://github.com/rmcmillan34/StegTool/)
-- <b>Bandito</b>
-  - [OverTheWire Bandit Clone in Alpine Linux](https://github.com/rmcmillan34/bandito/)
 - <b>Project PWN</b>
   - [Portable Wargame NUC - Cyber Range/Homelab](https://github.com/rmcmillan34/Project-PWN)
+- <b>Bandito</b>
+  - [OverTheWire Bandit Clone in Alpine Linux](https://github.com/rmcmillan34/bandito/)
+- <b>King of the Hill Tools</b>
+  - [Offensive Bash scripts for Attack/Defence CTFs](https://github.com/rmcmillan34/koth-tools/)
+- <b>Steganography Tool (StegTool)</b>
+  - [Implementing Image Steganography in Python](https://github.com/rmcmillan34/StegTool/)
 <br>
 
 <h2>📺 Popular YouTube Videos</h2>
