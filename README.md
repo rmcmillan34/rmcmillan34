@@ -5,6 +5,7 @@ I am a communications electronics technician by trade, a cybersecurity student, 
 <br>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
+
 - <b>Steganography Tool (StegTool)</b>
   - [Implementing Image Steganography in Python](https://github.com/rmcmillan34/StegTool/)
 - <b>Bandito</b>
