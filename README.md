@@ -17,6 +17,7 @@ I am a communications electronics technician by trade, a cybersecurity student, 
 <h2>📺 Popular YouTube Videos</h2>
 
 - [Sorting Algorithm Visualisation](https://www.youtube.com/watch?v=tQvWBGxPVtM)
+<br>
 
 ## 🤳 Connect with me:
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -30,15 +31,16 @@ I am a communications electronics technician by trade, a cybersecurity student, 
 [linkedin]: https://linkedin.com/in/ryan-mcmillan34
 <br>
 ---
+
 ## 🏆 Certifications
 - [eLearnSecurity eJPT]()
 - [ISC2 Certified in Cybersecurity (CC)]()
 - [CompTIA Pentest+]()
 - [EC-Council Certified Application Security Engineer: Java (CASE:Java)]()
 
-
+## Extra
 - 🔭 I’m currently working on [Project-PWN](https://github.com/rmcmillan34/Project-PWN/) and [Bandito](https://github.com/rmcmillan34/bandito/)
-- 🌱 I’m currently learning Cloud Security on AWS
+- 🌱 I’m currently learning Cloud Security on AWS Academy Platform
 - 🤖 Currently studying a master's degree in cyber security
 - ⚡️ Seeking to contribute to the open source community
 - 🎯 2024 Goals: Become CBBH, CPTS, and OSCP certified and complete my Masters Degree in Cyber Security.
