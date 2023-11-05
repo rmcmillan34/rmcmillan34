@@ -8,7 +8,7 @@ I am a communications electronics technician by trade, a cybersecurity student, 
 - <b>Steganography Tool (StegTool)</b>
   - [Implementing Image Steganography in Python](https://github.com/rmcmillan34/StegTool/)
 - <b>Bandito</b>
-  - [OverTheWire Bandit Clone in Alpine Linux](htts://github.com/rmcmillan34/bandito/)
+  - [OverTheWire Bandit Clone in Alpine Linux](https://github.com/rmcmillan34/bandito/)
 - <b>Project PWN</b>
   - [Portable Wargame NUC - Cyber Range/Homelab](https://github.com/rmcmillan34/Project-PWN)
 
