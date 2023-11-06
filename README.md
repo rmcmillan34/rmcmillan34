@@ -43,7 +43,7 @@ I am a communications electronics technician by trade, a cybersecurity student, 
 - [EC-Council Certified Application Security Engineer: Java (CASE:Java)]()
 
 ## Extra
-- 🔭 I’m currently working on [Project-PWN](https://github.com/rmcmillan34/Project-PWN/) and [Bandito](https://github.com/rmcmillan34/bandito/)
+- 🔭 I’m currently working on [Project-PWN](https://github.com/rmcmillan34/Project-PWN/), [Bandito](https://github.com/rmcmillan34/bandito/) and [CTF Challenges](https://github.com/rmcmillan34/ctf-challenges/)
 - 🌱 I’m currently learning Cloud Security on AWS Academy Platform
 - 🤖 Currently studying a master's degree in cyber security
 - ⚡️ Seeking to contribute to the open source community
