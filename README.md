@@ -38,9 +38,9 @@ I am a communications electronics technician by trade, a cybersecurity student, 
 
 ## 🏆 Certifications
 - [eLearnSecurity eJPT]()
-- [ISC2 Certified in Cybersecurity (CC)]()
 - [CompTIA Pentest+]()
 - [EC-Council Certified Application Security Engineer: Java (CASE:Java)]()
+- [ISC2 Certified in Cybersecurity (CC)]()
 
 ## Extra
 - 🔭 I’m currently working on [Project-PWN](https://github.com/rmcmillan34/Project-PWN/), [Bandito](https://github.com/rmcmillan34/bandito/) and [CTF Challenges](https://github.com/rmcmillan34/ctf-challenges/)
