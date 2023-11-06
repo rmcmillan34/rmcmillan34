@@ -4,7 +4,7 @@ I am a communications electronics technician by trade, a cybersecurity student, 
 <a href="https://github.com/rmcmillan34">Programmer</a>, <a href="https://www.linkedin.com/in/ryan-mcmillan34/">Aspiring Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/RizzSec">YouTuber</a>
 <br>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>🚧 Cyber Security Projects:</h2>
 
 - <b>Project PWN</b>
   - [Portable Wargame NUC - Cyber Range/Homelab](https://github.com/rmcmillan34/Project-PWN)
@@ -18,7 +18,7 @@ I am a communications electronics technician by trade, a cybersecurity student, 
   - [CTF Challenges for Project PWN](https://github.com/rmcmillan34/ctf-challenges)
 <br>
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>🎥 Popular YouTube Videos</h2>
 
 - [Sorting Algorithm Visualisation](https://www.youtube.com/watch?v=tQvWBGxPVtM)
 <br>
