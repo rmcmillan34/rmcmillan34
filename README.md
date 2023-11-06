@@ -1,7 +1,7 @@
 # Welcome. 
 My name is Ryan, and this is my GitHub.
 I am a communications electronics technician by trade, a cybersecurity student, and an artificial intelligence/machine learning and software development enthusiast.<br>
-<a href="https://github.com/rmcmillan34">Programmer</a>, <a href="https://www.linkedin.com/in/ryan-mcmillan34/">Aspiring Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/RizzSec">YouTuber</a>
+<a href="https://github.com/rmcmillan34">Programmer</a>, <a href="https://www.linkedin.com/in/ryan-mcmillan34/">Aspiring Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/RizzSec">Not a YouTuber</a>
 <br>
 
 <h2>🚧 Cyber Security Projects:</h2>
