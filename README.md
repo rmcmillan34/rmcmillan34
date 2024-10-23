@@ -44,7 +44,7 @@ I am a communications electronics technician by trade, a cybersecurity student, 
 
 ## Extra
 - 🤖 Currently studying a master's degree in cyber security
-- 🎯 2024 Goals: Become CBBH, CPTS, and OSCP certified and complete my Masters Degree in Cyber Security.
+- 🎯 2025 Goals: Become CBBH, CPTS, and OSCP certified and complete my Masters Degree in Cyber Security.
 - 🔭 I’m currently working on [Project-PWN](https://github.com/rmcmillan34/Project-PWN/), [Bandito](https://github.com/rmcmillan34/bandito/) and [CTF Challenges](https://github.com/rmcmillan34/ctf-challenges/)
 - ⚡️ Seeking to contribute to the open source community
 <br>
