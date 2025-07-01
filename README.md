@@ -1,11 +1,10 @@
 # Welcome. 
 My name is Ryan, and this is my GitHub.
-I am a communications electronics technician by trade, a cybersecurity student, and an artificial intelligence/machine learning and software development enthusiast.<br>
+I am a communications electronics technician by trade, MCyberSec from UNSW, and an artificial intelligence/machine learning and software development enthusiast.<br>
 <a href="https://github.com/rmcmillan34">Programmer</a>, <a href="https://www.linkedin.com/in/ryan-mcmillan34/">Aspiring Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/RizzSec">Not a YouTuber</a>
 <br>
 
-<h2>🚧 Cyber Security Projects:</h2>
-
+## 🚧 Cyber Security Projects:
 - <b>Project PWN</b>
   - [Portable Wargame NUC - Cyber Range/Homelab](https://github.com/rmcmillan34/Project-PWN)
 - <b>Bandito</b>
@@ -18,8 +17,7 @@ I am a communications electronics technician by trade, a cybersecurity student, 
   - [CTF Challenges for Project PWN](https://github.com/rmcmillan34/ctf-challenges)
 <br>
 
-<h2>🎥 Popular YouTube Videos</h2>
-
+## 🎥 YouTube Videos
 - [Sorting Algorithm Visualisation](https://www.youtube.com/watch?v=tQvWBGxPVtM)
 <br>
 
@@ -36,15 +34,17 @@ I am a communications electronics technician by trade, a cybersecurity student, 
 <br>
 ---
 
-## 🏆 Certifications
+## 🏆 Qualifications/Certifications
+- [Master of Computer Science - UNE (In Progress)]()
+- [Master of Cybersecurity - UNSW]()
 - [eLearnSecurity eJPT]()
 - [CompTIA Pentest+]()
 - [EC-Council Certified Application Security Engineer: Java (CASE:Java)]()
 - [ISC2 Certified in Cybersecurity (CC)]()
 
 ## Extra
-- 🤖 Currently studying a master's degree in cyber security
-- 🎯 2025 Goals: Become CBBH, CPTS, and OSCP certified and complete my Masters Degree in Cyber Security.
+- 🤖 Currently studying a master's degree in computer science
+- 🎯 2025 Goals: Become CBBH, CPTS, and OSCP certified.
 - 🔭 I’m currently working on [Project-PWN](https://github.com/rmcmillan34/Project-PWN/), [Bandito](https://github.com/rmcmillan34/bandito/) and [CTF Challenges](https://github.com/rmcmillan34/ctf-challenges/)
 - ⚡️ Seeking to contribute to the open source community
 <br>
